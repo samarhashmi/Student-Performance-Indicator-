@@ -1,0 +1,1 @@
+# Read data from dataset, like mongoDB clint
